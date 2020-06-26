@@ -15,6 +15,36 @@ This projects implements the _Trie data structure_ using C++.
 
 
 
+***
+
+### Screenshots
+
+<img src="https://raw.githubusercontent.com/GannaWalaa/Semantic-Auto-Complete-System/master/Screenshots/Welcome_Form1.png" alt="Welcome First Form" style="zoom: 67%;" />
+
+This form is the first thing to appear after running the project. The user can start typing in the combo-box for a prefix of a word and a list of sorted words that have the same prefix entered will be shown. To view the definition you can press _Search_. 
+
+For adding a new word you can press the _Add A New Word_ button and a new form will appear.
+
+---------------------------------------------
+
+<img src="https://raw.githubusercontent.com/GannaWalaa/Semantic-Auto-Complete-System/master/Screenshots/WordAndDefinition_Form2.png" alt="Word and Definition Form" style="zoom: 67%;" />
+
+This form appears after clicking _Add A New Word_ or _Search_ buttons. The word textbox is used to either view the word that has been searched or to add a new word. The definition text box is also like the word textbox, it is used to either view or write a new definition. 
+
+To complete the process of adding a new word, Click on _Done_. 
+
+To return back to searching for other words, Press _Return_
+
+----
+
+<img src="https://raw.githubusercontent.com/GannaWalaa/Semantic-Auto-Complete-System/master/Screenshots/SameNameConflict_Form3.png" alt="Same Name Conflict From" style="zoom: 67%;" />
+
+This form appears when the user enters a word to be added that already exists before. The user here needs to choose either to overwrite the past definition with the new definition or view the definition that is saved before and edit on it.
+
+
+
+---
+
 ### Troubles running the project
 
 If you're having troubles running the project you can try making the following steps:
